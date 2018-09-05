@@ -1,0 +1,4 @@
+BattleHammer
+StoneCrusher
+GiantSlayer
+GiantCrusher

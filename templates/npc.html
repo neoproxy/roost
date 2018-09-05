@@ -2,7 +2,12 @@
 
 {% block body %}
 <div class="jumbotron text-center">
-    <h1>The Most Heinous Villian Ever To Be Randomly Generated</h1>
-    <p class="lead">Of course they would never reveal themselves to you, which is why you just get a place holder</p>
+    <h1>The Most Heinous Villians Ever To Be Randomly Generated</h1>
+    <p class="lead">Of course, they would never reveal themselves to you, which is why you just get a place holder</p>
+      Your villian's level is {{ range(1, 21) | random }}.
+
+      {{ data }}
+
+
 </div>
 {% endblock %}

@@ -1,10 +1,14 @@
 #!flask/bin/python
 from flask import Flask, render_template
+import random
 from data import Articles
+from dice import DiceResults
+from jsonnpctest import nonpc
 
 app = Flask(__name__)
 
 Articles = Articles()
+DiceResults = DiceResults()
 
 @app.route('/')
 def index():
@@ -12,7 +16,7 @@ def index():
 
 @app.route('/npc')
 def npc():
-    return render_template('npc.html')
+    return render_template('npc.html',  data=nonpc())
 
 @app.route('/traps')
 def traps():

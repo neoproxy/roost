@@ -1,0 +1,22 @@
+Human - Kjeld
+Human - Raseri
+Human - Molakai
+Human - Kopeshia
+Elf - Ljosalfar (Light Elf)
+Elf - Dokkalfar (Dark Elf)
+Elf - Myrkalfar (Dusk Elf)
+Elf - Skogalfar (Wood Elf)
+Ork - Orkn Bardh Mog
+Ork - Orkn Zau Mog
+Ork - Orkn Kuku Mog
+Ork - Orkusan Vordog Mol
+Dwarf - House Dvergar
+Dwarf - House Dheurg
+Dwarf - House Twarg
+Dwarf - The Unspoken House
+Drachen - Azurdrak
+Drachen - Vjoldrak
+Drachen - Hadderdrak
+Drachen - Tiadrak
+Drachen - Zudrak
+Rakshasa - Tibetton
